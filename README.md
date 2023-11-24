@@ -1,9 +1,5 @@
-- 🔥 Yo, it's @Christian8D, bringing the heat!
-- 🤖 My passion for AI drives me to constantly expand my knowledge in the fields of Machine Learning and Deep Learning, all while keeping my love for Music      & Sound Modulation alive.
-- 💻 By day, I'm hustling to secure my dream job, sharpening my skills as a web developer and coding for fun.
-- 🎶 I'm always on the lookout for creative minds to collaborate with on killer Sound Modulation and Music projects. I'm a lifelong music enthusiast, after      all.
-- 📍 You can hit me up on Instagram @christian_cosio or connect with me on LinkedIn at https://www.linkedin.com/in/christian-cosio-program-the-world
+I am a dynamic and entrepreneurial Digital Nomad, passionate about working with businesses globally to transform solutions and drive scale through technology and digital platforms.
 
-<!--- Christian8D/Christian8D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I feel at home online and love technology, naturally fitting into Software Development , Web Design and Digital Marketing for work - all in all I am a driven developer with a passion for coding. 
+
+As the demand and need to assist mid-size entrepreneurial companies increased, my vision to establish international services with creative and simple concepts fit assisting clients and partners in developing ideas and strategies to amplify what they already do best or help build it up. 
