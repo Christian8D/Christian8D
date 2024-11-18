@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Christian and I'm a software developer & guitar player, currently living in Germany 🇩🇪</h2>
+<h2 align="left">Hi 👋! My name is Christian and I'm a Full-stack Software Engineer </h2>
 
 ###
 
