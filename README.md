@@ -6,11 +6,6 @@
 </p>
 
 
-<div align="center" >
-<h4> # About me </h4>
-</div>
-
-
 
 <div align="center" > 
 <div align="center" >
@@ -20,6 +15,17 @@
 
 <div align="center" >
 <h4> Hi, I'm Christian! 🚀 </h4>
+</div>
+
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=christian8D&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christian8D&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+
+![Snake animation](https://raw.githubusercontent.com/Christian8D/Christian8D/output/snake.svg)
+</div>
+
+<div align="center" >
+<h4> # About me </h4>
 </div>
 
 > Full-stack developer engineering with JavaScript, TypeScript, React, Next.js, and Tailwind CSS for clean, modern designs. On the backend, I work with, Node, Express, Python, MongoDB, and tools that make apps smarter and more helpful. <br> <br> I build sleek, reliable apps and bring them to life with Vercel deployments. When I’m not coding, I’m playing my guitar or brainstorming fresh ideas for useful, everyday tech. Let’s create something awesome! ✨
@@ -67,19 +73,10 @@
 
 </div>
 
-###
 
 
 
 
-
-
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=christian8D&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christian8D&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
-
-![Snake animation](https://raw.githubusercontent.com/Christian8D/Christian8D/output/snake.svg)
-</div>
 
 ###
 
