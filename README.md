@@ -6,6 +6,24 @@
 </p>
 
 
+<div align="center" >
+<h4> # About me </h4>
+</div>
+
+
+
+<div align="center" > 
+<div align="center" >
+<h4> **Full-stack Engineer | AI Engineering Enthusiast |** Stuttgart, Germany & U.S.A </h4>  
+</div>
+
+
+<div align="center" >
+<h4> Hi, I'm Christian! 🚀 </h4>
+</div>
+
+> Full-stack developer engineering with JavaScript, TypeScript, React, Next.js, and Tailwind CSS for clean, modern designs. On the backend, I work with, Node, Express, Python, MongoDB, and tools that make apps smarter and more helpful. <br> <br> I build sleek, reliable apps and bring them to life with Vercel deployments. When I’m not coding, I’m playing my guitar or brainstorming fresh ideas for useful, everyday tech. Let’s create something awesome! ✨
+
 </div>
 <!-- 
 <a href="https://www.christianc.dev" target="_blank">
@@ -21,6 +39,7 @@
 ###
 
 
+<br>
 <div align="Center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
@@ -64,8 +83,10 @@
 
 ###
 
-<div align="center">
-<img align="center" height="150" src="https://i.imgflip.com/9arwox.gif" alt="new coding gif" />
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
+  <div>
+  <img align="center" height="150" src="https://i.imgflip.com/9arwox.gif" alt="new coding gif" />
+</div>
 
 <!--
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -75,12 +96,18 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 -->
 
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/christiancosio" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="LinkedIn logo" />
+  </a>
 
-  <a href="https://www.linkedin.com/in/christiancosio" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-</a>
+  <a href="https://www.christianc.dev" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=fire&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="Portfolio logo" />
+  </a>
+</div>
 
 </div>
+
 
 ###
 
