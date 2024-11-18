@@ -80,6 +80,10 @@
 
 ###
 
+<div align="center" >
+<h4> # Contact Me </h4>
+</div>
+
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
   <div>
   <img align="center" height="150" src="https://i.imgflip.com/9arwox.gif" alt="new coding gif" />
@@ -92,6 +96,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 -->
+<br>
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/christiancosio" target="_blank" style="text-decoration: none;">
