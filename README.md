@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi 👋! Full-stack Software Engineer </h2>
 
-[![Christian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-01&to=2024-11-18)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Christian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-01&to=2024-11-18)](https://www.christianc.dev)
 
 
 
