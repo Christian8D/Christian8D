@@ -1,17 +1,12 @@
 
-
-
 <p align="center">
   <img src="https://christianc.dev/wp-content/uploads/2024/11/Screen-Shot-2024-11-18-at-9.28.15-PM.svg" width="900"/>
 </p>
-
-
 
 <div align="center" > 
 <div align="center" >
 <h4> **Full-stack Engineer | AI Engineering Enthusiast |** Stuttgart, Germany & U.S.A </h4>  
 </div>
-
 
 <div align="center" >
 <h4> Hi, I'm Christian! 🚀 </h4>
@@ -31,19 +26,14 @@
 > Full-stack developer engineering with JavaScript, TypeScript, React, Next.js, and Tailwind CSS for clean, modern designs. On the backend, I work with, Node, Express, Python, MongoDB, and tools that make apps smarter and more helpful. <br> <br> I build sleek, reliable apps and bring them to life with Vercel deployments. When I’m not coding, I’m playing my guitar or brainstorming fresh ideas for useful, everyday tech. Let’s create something awesome! ✨
 
 </div>
+
 <!-- 
 <a href="https://www.christianc.dev" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-01&to=2024-11-18" alt="Christian's github activity graph">
 </a>
 -->
 
-
-
-
-
-
 ###
-
 
 <br>
 <div align="Center">
@@ -69,13 +59,7 @@
 <!--   <img width="12" />
   <img src="https://christianc.dev/wp-content/uploads/2024/11/AWS-Logo.svg" height="50" alt="AWS logo"/> -->
 
-  
-
 </div>
-
-
-
-
 
 
 ###
@@ -107,16 +91,10 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=fire&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="Portfolio logo" />
   </a>
 </div>
-
 </div>
-
 </div>
 
 
 ###
 
 
-<br clear="both">
-
-
-###
