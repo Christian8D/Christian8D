@@ -1,10 +1,17 @@
-<div align="center">
-<h2 align="center">Hi 👋! Full-stack Software Engineer </h2>
-</div>
 
+
+
+<p align="center">
+  <img src="https://christianc.dev/wp-content/uploads/2024/11/Screen-Shot-2024-11-18-at-9.28.15-PM.svg" width="900"/>
+</p>
+
+
+</div>
+<!-- 
 <a href="https://www.christianc.dev" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-01&to=2024-11-18" alt="Christian's github activity graph">
 </a>
+-->
 
 
 
