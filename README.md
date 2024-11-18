@@ -39,9 +39,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://christianc.dev/wp-content/uploads/2024/11/icon-openai.png" height="50" alt="OpenAI logo" />
+  <img width="12" />
+  <img src="https://christianc.dev/wp-content/uploads/2024/11/Vercel-logo.svg" height="50" alt="Vercel logo" />
+<!--   <img width="12" />
+  <img src="https://christianc.dev/wp-content/uploads/2024/11/AWS-Logo.svg" height="50" alt="AWS logo"/> -->
 
-
-
+  
 
 </div>
 
