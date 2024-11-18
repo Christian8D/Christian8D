@@ -1,7 +1,10 @@
+<div align="center">
+<h2 align="center">Hi 👋! Full-stack Software Engineer </h2>
+</div>
 
-<h2 align="left">Hi 👋! Full-stack Software Engineer </h2>
-
-[![Christian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-01&to=2024-11-18)](https://www.christianc.dev)
+<a href="https://www.christianc.dev" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-01&to=2024-11-18" alt="Christian's github activity graph">
+</a>
 
 
 
