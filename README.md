@@ -49,7 +49,8 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/Christian8D/output/main/snake.svg)
+![Snake animation](https://Christian8D.github.io/Christian8D/snake.svg)
+
 
 
 ###
