@@ -5,7 +5,8 @@
 
 <div align="center" > 
 <div align="center" >
-<h4> **Full-stack Engineer | AI Engineering Enthusiast |** Stuttgart, Germany & U.S.A </h4>  
+<h4> **Full-stack Engineer | AI Engineering Enthusiast |** </h4>
+<h4>Stuttgart, Germany & U.S.A </h4>  
 </div>
 
 <div align="center" >
@@ -65,9 +66,10 @@
 ###
 
 <div align="center" >
+<br>
 <h4> # Contact Me </h4>
 </div>
-
+<br>
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
   <div>
   <img align="center" height="150" src="https://i.imgflip.com/9arwox.gif" alt="new coding gif" />
@@ -94,6 +96,15 @@
 </div>
 </div>
 
+<br>
+<br>
+
+
+<div align="center">
+<a href="https://www.christianc.dev" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-01" alt="Christian's github activity graph">
+</a>
+</div>
 
 ###
 
