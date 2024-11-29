@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" >
-<h4> Hi, I'm Christian! 🚀 </h4>
+<h4> Hi, I'm CC! 🚀 </h4>
 </div>
 
 <div align="center">
