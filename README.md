@@ -102,7 +102,7 @@
 
 <div align="center">
 <a href="https://www.christianc.dev" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-15" alt="Christian's github activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-20" alt="Christian's github activity graph">
 </a>
 </div>
 
