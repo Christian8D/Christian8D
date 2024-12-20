@@ -6,7 +6,7 @@
 <div align="center" > 
 <div align="center" >
 <h4> Full-stack Engineer | AI Engineering </h4>
-<h4>Stuttgart, Germany & U.S.A </h4>  
+<h4> Deutschland & U.S.A </h4>  
 </div>
 
 <div align="center" >
