@@ -17,7 +17,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=christian8D&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christian8D&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 
-![Snake animation](https://raw.githubusercontent.com/Christian8D/Christian8D/output/snake.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/Christian8D/Christian8D/output/snake.svg)-->
 </div>
 
 <div align="center" >
@@ -100,11 +100,11 @@
 <br>
 
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://www.christianc.dev" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christian8D&theme=github-compact&from=2024-10-01" alt="Christian's github activity graph">
 </a>
-</div>
+</div> -->
 
 ###
 
