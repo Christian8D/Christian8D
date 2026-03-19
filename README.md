@@ -1,8 +1,8 @@
-
+<!-- 
 <p align="center">
   <img src="https://christianc.dev/wp-content/uploads/2024/11/Screen-Shot-2024-11-18-at-9.28.15-PM.svg" width="900"/>
 </p>
-
+-->
 <div align="center" > 
 <div align="center" >
 <h4> Full-stack Engineer | AI Engineering | DevOps </h4>
